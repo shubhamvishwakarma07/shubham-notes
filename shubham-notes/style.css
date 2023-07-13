@@ -21,7 +21,7 @@ body {
   cursor: pointer;
   padding: 0.5rem 1rem;
   position: fixed;
-  top: 1rem;
+  bottom: 1rem;
   right: 1rem;
 }
 
